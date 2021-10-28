@@ -83,8 +83,8 @@
         border: 1px solid #ddd;
     }
     
-    .title-about,
-    .title-contact {
+    .about-title,
+    .contact-title {
         width: 100%;
         color: #4aaaa5;
         font-size: 30px;
@@ -95,7 +95,7 @@
         margin-bottom: 5px;
     }
     
-    .title {
+    .portfolio-title {
         width: 100%;
         color: #4aaaa5;
         font-size: 30px;
